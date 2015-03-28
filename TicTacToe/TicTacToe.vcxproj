@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="TicTacToeClass.cpp" />
     <ClCompile Include="TicTacToeMain.cpp" />
   </ItemGroup>
   <ItemGroup>
